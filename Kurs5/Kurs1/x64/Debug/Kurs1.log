@@ -1,0 +1,7 @@
+﻿  Main.c
+C:\Users\Poluroslik M\source\repos\Kurs4\Main.c(39,8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Poluroslik M\source\repos\Kurs4\Main.c(19,1): warning C4716: bomb: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Kurs4\Main.c(12,1): warning C4716: cleaning: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Kurs4\Main.c(36,1): warning C4716: generation: должна возвращать значение
+C:\Users\Poluroslik M\source\repos\Kurs4\Main.c(154,1): warning C4716: saper: должна возвращать значение
+  Kurs1.vcxproj -> C:\Users\Poluroslik M\source\repos\Kurs4\x64\Debug\Kurs1.exe
